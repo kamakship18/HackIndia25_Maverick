@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import Link from 'next/link';
+
 import { ethers } from "ethers";
 import { contractABI } from "./abi";
 import { contractAddress } from "./contractAddress";
@@ -42,6 +42,7 @@ import {
   Globe, 
   Settings, 
   Star, 
+  Link, 
   Wand2, 
   Share2, 
   AlertCircle,
@@ -768,9 +769,6 @@ const CreatePredictionPage = () => {
               </Button>
             </div>
           </div>
-      <Link href="/influencer/community-hub">
-      <Button>Redirect to communtiy</Button>
-      </Link>
         </div>
       </Tabs>
     </div>
