@@ -654,6 +654,15 @@ const CreatePredictionPage = () => {
                         Submit to DAO Community
                       </Button>
                     </div>
+                    <div className="flex justify-center mt-4">
+    <Button 
+      type="button" 
+      onClick={() => window.location.href = '/influencer/community-hub'}
+      className="w-full bg-gradient-to-r from-purple-600 to-cyan-600 hover:from-purple-500 hover:to-cyan-500"
+    >
+      Continue to Community Hub
+    </Button>
+  </div>
                   </TabsContent>
                 </form>
               </CardContent>
