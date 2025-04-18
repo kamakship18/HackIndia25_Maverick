@@ -8,6 +8,8 @@ In the world of finance, there's a growing distrust in self-proclaimed “finflu
 - ✅ Creating a **fully decentralized platform** where verified communities govern predictions, not corporations or individual influencers.A platform where predictions are verified and approved by **communities (DAOs)**.
 - ✅ Using **AI** to explain and validate reasoning behind investment ideas.
 - ✅ Ensuring **transparency, credibility, and decentralization** in financial forecasting.
+
+- Deployed link: https://hack-india25-maverick1.vercel.app/
 ---
 
 ## 🚀 Tech Stack
