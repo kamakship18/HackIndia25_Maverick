@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 
 import { ethers } from "ethers";
-import { contractABI } from "./abi";
-import { contractAddress } from "./contractAddress";
+import { contractABI } from "../../contract/abi";
+import { contractAddress } from "../../contract/contractAddress";
 import { 
   Card, 
   CardContent, 
